@@ -1,0 +1,18 @@
+---
+Title: Test First Rubric
+Standards:
+  -
+    Title: Week 1
+    UID: 4f5b2cb5-f8fd-4163-9638-903590251e99
+    Description: Demonstrate mastery of Testing First
+    SuccessCriteria:
+      - Filler success criteria #1
+      - Filler success criteria #2
+    ContentFiles:
+    - Type: Lesson
+      UID: 5c3f0332-d67b-42b6-8072-0e04bf0f8e56
+      Path: /Units/Test-First-Week-1/Success-Criteria-1.md
+    - Type: Checkpoint
+      UID: 8e9a12fa-5de7-4354-a7c8-2152edc0de6d
+      Path: /Units/Test-First-Week-1/checkpoint.md
+  
